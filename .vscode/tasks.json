@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run 3D Tetris (just)",
+			"type": "shell",
+			"command": "C:/Users/rt/AppData/Local/Microsoft/WinGet/Packages/Casey.Just_Microsoft.Winget.Source_8wekyb3d8bbwe/just.exe",
+			"args": [
+				"run"
+			],
+			"isBackground": true
+		},
+		{
+			"label": "Run 3D Tetris (just)",
+			"type": "shell",
+			"command": "C:/Users/rt/AppData/Local/Microsoft/WinGet/Packages/Casey.Just_Microsoft.Winget.Source_8wekyb3d8bbwe/just.exe",
+			"args": [
+				"run"
+			],
+			"isBackground": true
+		}
+	]
+}

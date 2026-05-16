@@ -1,0 +1,13 @@
+[project]
+name = "oskar-game"
+version = "0.1.0"
+description = "3D Tetris style game built with pygame"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pygame>=2.5.0",
+    "pygbag>=0.9.3",
+]
+
+[tool.uv]
+package = false
